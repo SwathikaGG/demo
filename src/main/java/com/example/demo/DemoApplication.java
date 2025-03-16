@@ -18,6 +18,6 @@ public class DemoApplication {
 class HelloController {
     @GetMapping
     public String hello() {
-        return "Hello, DevSecOps with Jenkins!-UPDATE";
+        return "Hello, DevSecOps with Jenkins!-🚀";
     }
 }
